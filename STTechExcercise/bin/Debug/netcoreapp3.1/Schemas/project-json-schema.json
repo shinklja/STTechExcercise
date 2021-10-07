@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "title": "Schema for projects",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Schema for projects"
+    },
+    "projects": {
+      "type": "array",
+      "description": "An array of projects.",
+      "minItems": 1,
+      "items": {
+        { "$ref": "#/$defs/project" }
+      }
+    }
+  },
+  "$defs": {
+    "project": {
+      "type": "object",
+      "required": [ "highcostflag", "startdate", "enddate" ],
+      "properties": {
+        "highcostflag": {
+          "type": "boolean",
+          "description": "Denotes whether the project takes place in a high cost city."
+        },
+        "startdate": {
+          "type": "datetime",
+          "description": "Start date of the project"
+        },
+        "enddate": {
+          "type": "datetime",
+          "description": "End date of the project"
+        }
+      }
+    }
+  }
+}

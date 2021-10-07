@@ -1,0 +1,72 @@
+2021-10-07 13:41:09.5825 Info Message Template Auto Format enabled
+2021-10-07 13:41:09.5989 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 13:41:09.6419 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 13:41:09.6652 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 13:41:09.6832 Info Configuration initialized.
+2021-10-07 13:41:09.6832 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 14:53:40.7027 Info Message Template Auto Format enabled
+2021-10-07 14:53:40.7114 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 14:53:40.7667 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 14:53:40.7967 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 14:53:40.8178 Info Configuration initialized.
+2021-10-07 14:53:40.8244 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 14:54:42.6397 Info Message Template Auto Format enabled
+2021-10-07 14:54:42.6397 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 14:54:42.6919 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 14:54:42.7166 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 14:54:42.7348 Info Configuration initialized.
+2021-10-07 14:54:42.7348 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 14:55:29.7911 Info Message Template Auto Format enabled
+2021-10-07 14:55:29.7911 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 14:55:29.8539 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 14:55:29.8862 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 14:55:29.9134 Info Configuration initialized.
+2021-10-07 14:55:29.9134 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 14:57:52.1687 Info Message Template Auto Format enabled
+2021-10-07 14:57:52.1808 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 14:57:52.2238 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 14:57:52.2473 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 14:57:52.2627 Info Configuration initialized.
+2021-10-07 14:57:52.2627 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:04:00.5999 Info Message Template Auto Format enabled
+2021-10-07 15:04:00.5999 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:04:00.7079 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:04:00.7362 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:04:00.7571 Info Configuration initialized.
+2021-10-07 15:04:00.7571 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:05:00.7098 Info Message Template Auto Format enabled
+2021-10-07 15:05:00.7098 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:05:00.7671 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:05:00.7980 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:05:00.8146 Info Configuration initialized.
+2021-10-07 15:05:00.8146 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:05:23.9814 Info Message Template Auto Format enabled
+2021-10-07 15:05:23.9814 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:05:24.0358 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:05:24.0645 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:05:24.0866 Info Configuration initialized.
+2021-10-07 15:05:24.0866 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:05:52.3799 Info Message Template Auto Format enabled
+2021-10-07 15:05:52.4067 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:05:52.4864 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:05:52.5216 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:05:52.5459 Info Configuration initialized.
+2021-10-07 15:05:52.5459 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:12:11.8663 Info Message Template Auto Format enabled
+2021-10-07 15:12:11.8663 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:12:11.9240 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:12:11.9466 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:12:11.9609 Info Configuration initialized.
+2021-10-07 15:12:11.9609 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:34:53.6632 Info Message Template Auto Format enabled
+2021-10-07 15:34:53.6632 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:34:53.7298 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:34:53.7564 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:34:53.7784 Info Configuration initialized.
+2021-10-07 15:34:53.7784 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:36:37.7195 Info Message Template Auto Format enabled
+2021-10-07 15:36:37.7273 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:36:37.7742 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:36:37.8000 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:36:37.8167 Info Configuration initialized.
+2021-10-07 15:36:37.8167 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
