@@ -1,16 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using Newtonsoft.Json.Schema;
 using STTechExcercise.Models;
 using STTechExcercise.Services;
-using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace STTechExcercise.Controllers
 {
@@ -40,12 +33,5 @@ namespace STTechExcercise.Controllers
             }
 
         }
-        private bool ValidProjectJson(string projectJson)
-        {
-                JSchema schema = JSchema.Parse(System.IO.File.ReadAllText(Path.Combine(Environment.CurrentDirectory, @"Schemas\project-json-schema.json")));
-                JObject project = JObject.Parse(projectJson);
-                return project.IsValid(schema);
-        }
-
     }
 }

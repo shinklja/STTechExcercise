@@ -4,7 +4,6 @@ using STTechExcercise.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace STTechExcercise.Services
 {
@@ -34,20 +33,15 @@ namespace STTechExcercise.Services
             var projectsActiveDuringCurrentDate = projects.Where(w => w.StartDate <= currentDate && w.EndDate >= currentDate);
             if(projectsActiveDuringCurrentDate == null || projectsActiveDuringCurrentDate.Count() == 0)
             {
-                return _reimbursementValues.HighCostTravel; //sure in a gap I could do low cost pay, but I'm all for worker's rights ;)
+                return 0;
             }
-            var middleProjects = projects.Where(w => w.StartDate < currentDate && w.EndDate > currentDate);
-            if (middleProjects != null && middleProjects.Count() > 0)
-            {
-                return middleProjects.Max(m => m.HighCostFlag) ? _reimbursementValues.HighCostPay : _reimbursementValues.LowCostPay;
-            }
-            else if(projects.FirstOrDefault(w => w.StartDate <= currentDate.AddDays(1) && w.EndDate >= currentDate.AddDays(1)) != null)
+            if (projects.FirstOrDefault(w => w.StartDate <= currentDate.AddDays(1) && w.EndDate >= currentDate.AddDays(1)) != null && projects.FirstOrDefault(w => w.StartDate <= currentDate.AddDays(-1) && w.EndDate >= currentDate.AddDays(-1)) != null)
             {
                 return projectsActiveDuringCurrentDate.Max(m => m.HighCostFlag) ? _reimbursementValues.HighCostPay : _reimbursementValues.LowCostPay;
             }
             else
             {
-                return projectsActiveDuringCurrentDate.Max(m => m.HighCostFlag) ? _reimbursementValues.HighCostTravel : _reimbursementValues.HighCostTravel;
+                return projectsActiveDuringCurrentDate.Max(m => m.HighCostFlag) ? _reimbursementValues.HighCostTravel : _reimbursementValues.LowCostTravel;
             }
         }
     }

@@ -628,9 +628,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\STTechExcercise.csproj",
-      "projectName": "STTechExcercise",
-      "projectPath": "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\STTechExcercise.csproj",
+      "projectUniqueName": "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\STTechExercise.csproj",
+      "projectName": "STTechExercise",
+      "projectPath": "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\STTechExercise.csproj",
       "packagesPath": "C:\\Users\\shink\\.nuget\\packages\\",
       "outputPath": "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\obj\\",
       "projectStyle": "PackageReference",

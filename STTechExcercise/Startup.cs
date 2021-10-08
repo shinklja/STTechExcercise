@@ -1,18 +1,12 @@
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using STTechExcercise.Configuration;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace STTechExcercise
 {
@@ -43,9 +37,7 @@ namespace STTechExcercise
             var reimbursementValues = new ReimbursementValuesConfiguration();
             Configuration.Bind("ReimbursementValues", reimbursementValues);
             services.AddSingleton(reimbursementValues);
-            services.AddTransient<Services.ProjectReimbursementService>();
-            services.AddMediatR(typeof(Startup).Assembly);
-
+            services.AddSingleton<Services.ProjectReimbursementService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
