@@ -1,0 +1,610 @@
+2021-10-07 13:41:09.5825 Info Message Template Auto Format enabled
+2021-10-07 13:41:09.5989 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 13:41:09.6419 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 13:41:09.6652 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 13:41:09.6832 Info Configuration initialized.
+2021-10-07 13:41:09.6832 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 14:53:40.7027 Info Message Template Auto Format enabled
+2021-10-07 14:53:40.7114 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 14:53:40.7667 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 14:53:40.7967 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 14:53:40.8178 Info Configuration initialized.
+2021-10-07 14:53:40.8244 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 14:54:42.6397 Info Message Template Auto Format enabled
+2021-10-07 14:54:42.6397 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 14:54:42.6919 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 14:54:42.7166 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 14:54:42.7348 Info Configuration initialized.
+2021-10-07 14:54:42.7348 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 14:55:29.7911 Info Message Template Auto Format enabled
+2021-10-07 14:55:29.7911 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 14:55:29.8539 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 14:55:29.8862 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 14:55:29.9134 Info Configuration initialized.
+2021-10-07 14:55:29.9134 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 14:57:52.1687 Info Message Template Auto Format enabled
+2021-10-07 14:57:52.1808 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 14:57:52.2238 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 14:57:52.2473 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 14:57:52.2627 Info Configuration initialized.
+2021-10-07 14:57:52.2627 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:04:00.5999 Info Message Template Auto Format enabled
+2021-10-07 15:04:00.5999 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:04:00.7079 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:04:00.7362 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:04:00.7571 Info Configuration initialized.
+2021-10-07 15:04:00.7571 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:05:00.7098 Info Message Template Auto Format enabled
+2021-10-07 15:05:00.7098 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:05:00.7671 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:05:00.7980 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:05:00.8146 Info Configuration initialized.
+2021-10-07 15:05:00.8146 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:05:23.9814 Info Message Template Auto Format enabled
+2021-10-07 15:05:23.9814 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:05:24.0358 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:05:24.0645 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:05:24.0866 Info Configuration initialized.
+2021-10-07 15:05:24.0866 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:05:52.3799 Info Message Template Auto Format enabled
+2021-10-07 15:05:52.4067 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:05:52.4864 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:05:52.5216 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:05:52.5459 Info Configuration initialized.
+2021-10-07 15:05:52.5459 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:12:11.8663 Info Message Template Auto Format enabled
+2021-10-07 15:12:11.8663 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:12:11.9240 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:12:11.9466 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:12:11.9609 Info Configuration initialized.
+2021-10-07 15:12:11.9609 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:34:53.6632 Info Message Template Auto Format enabled
+2021-10-07 15:34:53.6632 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:34:53.7298 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:34:53.7564 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:34:53.7784 Info Configuration initialized.
+2021-10-07 15:34:53.7784 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:36:37.7195 Info Message Template Auto Format enabled
+2021-10-07 15:36:37.7273 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:36:37.7742 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:36:37.8000 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:36:37.8167 Info Configuration initialized.
+2021-10-07 15:36:37.8167 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 15:59:47.0821 Info Message Template Auto Format enabled
+2021-10-07 15:59:47.0941 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 15:59:47.1630 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 15:59:47.2077 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 15:59:47.2356 Info Configuration initialized.
+2021-10-07 15:59:47.2356 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 16:00:57.2974 Info Message Template Auto Format enabled
+2021-10-07 16:00:57.3037 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:00:57.3558 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 16:00:57.3835 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 16:00:57.4037 Info Configuration initialized.
+2021-10-07 16:00:57.4037 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 16:06:04.4591 Info Message Template Auto Format enabled
+2021-10-07 16:06:04.4660 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:06:04.5112 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 16:06:04.5347 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 16:06:04.5512 Info Configuration initialized.
+2021-10-07 16:06:04.5512 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 16:07:32.5252 Info Message Template Auto Format enabled
+2021-10-07 16:07:32.5376 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:07:32.5807 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 16:07:32.6079 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 16:07:32.6243 Info Configuration initialized.
+2021-10-07 16:07:32.6243 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 16:09:34.4560 Info Message Template Auto Format enabled
+2021-10-07 16:09:34.4686 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:09:34.5312 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 16:09:34.5678 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 16:09:34.5931 Info Configuration initialized.
+2021-10-07 16:09:34.5931 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 16:12:17.4738 Info Message Template Auto Format enabled
+2021-10-07 16:12:17.4823 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:12:17.5704 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 16:12:17.6004 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 16:12:17.6242 Info Configuration initialized.
+2021-10-07 16:12:17.6242 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 16:15:57.1380 Info Message Template Auto Format enabled
+2021-10-07 16:15:57.1380 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:15:57.2021 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 16:15:57.2339 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 16:15:57.2583 Info Configuration initialized.
+2021-10-07 16:15:57.2583 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 16:17:19.5800 Info Message Template Auto Format enabled
+2021-10-07 16:17:19.5929 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:17:19.6385 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 16:17:19.6589 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 16:17:19.6730 Info Configuration initialized.
+2021-10-07 16:17:19.6730 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 16:23:17.6091 Info Message Template Auto Format enabled
+2021-10-07 16:23:17.6266 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:23:17.7245 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 16:23:17.7527 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 16:23:17.7722 Info Configuration initialized.
+2021-10-07 16:23:17.7722 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 16:23:46.7540 Info Message Template Auto Format enabled
+2021-10-07 16:23:46.7649 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:23:46.8427 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 16:23:46.8695 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 16:23:46.8944 Info Configuration initialized.
+2021-10-07 16:23:46.8944 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 16:23:59.7982 Info Message Template Auto Format enabled
+2021-10-07 16:23:59.8090 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:23:59.8520 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 16:23:59.8769 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 16:23:59.8936 Info Configuration initialized.
+2021-10-07 16:23:59.8936 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-07 16:45:58.8910 Info Message Template Auto Format enabled
+2021-10-07 16:45:58.8993 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-07 16:45:58.9526 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-07 16:45:58.9861 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-07 16:45:59.0094 Info Configuration initialized.
+2021-10-07 16:45:59.0094 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 14:18:54.2357 Info Message Template Auto Format enabled
+2021-10-08 14:18:54.2463 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 14:18:54.2999 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 14:18:54.3302 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 14:18:54.3518 Info Configuration initialized.
+2021-10-08 14:18:54.3518 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 14:19:26.6561 Info Message Template Auto Format enabled
+2021-10-08 14:19:26.6654 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 14:19:26.7373 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 14:19:26.7754 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 14:19:26.7973 Info Configuration initialized.
+2021-10-08 14:19:26.7973 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 14:45:30.6003 Info Message Template Auto Format enabled
+2021-10-08 14:45:30.6227 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 14:45:30.6819 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 14:45:30.7051 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 14:45:30.7276 Info Configuration initialized.
+2021-10-08 14:45:30.7276 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 14:46:53.7689 Info Message Template Auto Format enabled
+2021-10-08 14:46:53.7774 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 14:46:53.8237 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 14:46:53.8491 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 14:46:53.8643 Info Configuration initialized.
+2021-10-08 14:46:53.8643 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 14:48:56.8299 Info Message Template Auto Format enabled
+2021-10-08 14:48:56.8390 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 14:48:56.8903 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 14:48:56.9154 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 14:48:56.9313 Info Configuration initialized.
+2021-10-08 14:48:56.9313 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 15:00:39.4184 Info Message Template Auto Format enabled
+2021-10-08 15:00:39.4356 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 15:00:39.5261 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 15:00:39.5642 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 15:00:39.6418 Info Configuration initialized.
+2021-10-08 15:00:39.6418 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 15:03:09.8296 Info Message Template Auto Format enabled
+2021-10-08 15:03:09.8424 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 15:03:09.8424 Debug ScanAssembly('NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c')
+2021-10-08 15:03:09.8738 Debug Setting 'NLog.LayoutRenderers.Wrappers.UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2021-10-08 15:03:09.8865 Debug Setting 'NLog.Targets.FileTarget.name' to 'log-file'
+2021-10-08 15:03:09.8865 Debug Setting 'NLog.Targets.FileTarget.fileName' to '.\logs\reimbursementcalc.${shortdate}.log'
+2021-10-08 15:03:09.8865 Debug Setting 'NLog.Targets.FileTarget.maxArchiveFiles' to '10'
+2021-10-08 15:03:09.8865 Debug Setting 'NLog.Targets.FileTarget.archiveOldFileOnStartup' to 'false'
+2021-10-08 15:03:09.8865 Debug Setting 'NLog.Targets.FileTarget.layout' to '${longdate}|${event-properties:item=EventId_Id}|${uppercase:${level}}|${logger}|${message} ${exception:format=tostring}|url: ${aspnet-request-url}|action: ${aspnet-mvc-action}'
+2021-10-08 15:03:09.8865 Debug Setting 'NLog.LayoutRenderers.EventPropertiesLayoutRenderer.item' to 'EventId_Id'
+2021-10-08 15:03:09.9006 Debug Setting 'NLog.LayoutRenderers.Wrappers.UppercaseLayoutRendererWrapper.Inner' to '${level}'
+2021-10-08 15:03:09.9127 Debug Setting 'NLog.LayoutRenderers.ExceptionLayoutRenderer.format' to 'tostring'
+2021-10-08 15:03:09.9127 Debug Wrapping target 'log-file' with AsyncTargetWrapper and renaming to 'log-file_wrapped
+2021-10-08 15:03:09.9127 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 15:03:09.9127 Debug Registered target log-file: NLog.Targets.Wrappers.AsyncTargetWrapper
+2021-10-08 15:03:09.9347 Debug Watching path 'D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1' filter 'NLog.config' for changes.
+2021-10-08 15:03:09.9347 Debug --- NLog configuration dump ---
+2021-10-08 15:03:09.9347 Debug Targets:
+2021-10-08 15:03:09.9347 Debug AsyncWrapper Target[log-file](File Target[log-file_wrapped])
+2021-10-08 15:03:09.9347 Debug Rules:
+2021-10-08 15:03:09.9456 Debug logNamePattern: (:All) levels: [ Trace Debug Info Warn Error Fatal ] appendTo: [ log-file ]
+2021-10-08 15:03:09.9456 Debug --- End of NLog configuration dump ---
+2021-10-08 15:03:09.9456 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 15:03:09.9456 Debug Unused target checking is started... Rule Count: 1, Target Count: 1
+2021-10-08 15:03:09.9456 Debug Unused target checking is completed. Total Rule Count: 1, Total Target Count: 1, Unused Target Count: 0
+2021-10-08 15:03:09.9706 Info Configuration initialized.
+2021-10-08 15:03:09.9706 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 15:03:09.9748 Debug Targets for Microsoft.Extensions.Hosting.Internal.ApplicationLifetime by level:
+2021-10-08 15:03:09.9748 Debug Trace => log-file
+2021-10-08 15:03:09.9748 Debug Debug => log-file
+2021-10-08 15:03:09.9748 Debug Info => log-file
+2021-10-08 15:03:09.9748 Debug Warn => log-file
+2021-10-08 15:03:09.9748 Debug Error => log-file
+2021-10-08 15:03:09.9748 Debug Fatal => log-file
+2021-10-08 15:03:09.9748 Debug Targets for Microsoft.Extensions.Hosting.Internal.Host by level:
+2021-10-08 15:03:09.9748 Debug Trace => log-file
+2021-10-08 15:03:09.9748 Debug Debug => log-file
+2021-10-08 15:03:09.9748 Debug Info => log-file
+2021-10-08 15:03:09.9748 Debug Warn => log-file
+2021-10-08 15:03:09.9748 Debug Error => log-file
+2021-10-08 15:03:09.9748 Debug Fatal => log-file
+2021-10-08 15:03:09.9748 Debug Targets for Microsoft.Hosting.Lifetime by level:
+2021-10-08 15:03:09.9748 Debug Trace => log-file
+2021-10-08 15:03:09.9748 Debug Debug => log-file
+2021-10-08 15:03:09.9748 Debug Info => log-file
+2021-10-08 15:03:09.9908 Debug Warn => log-file
+2021-10-08 15:03:09.9908 Debug Error => log-file
+2021-10-08 15:03:09.9908 Debug Fatal => log-file
+2021-10-08 15:03:09.9908 Debug Targets for Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer by level:
+2021-10-08 15:03:09.9908 Debug Trace => log-file
+2021-10-08 15:03:09.9908 Debug Debug => log-file
+2021-10-08 15:03:09.9908 Debug Info => log-file
+2021-10-08 15:03:09.9908 Debug Warn => log-file
+2021-10-08 15:03:09.9908 Debug Error => log-file
+2021-10-08 15:03:09.9908 Debug Fatal => log-file
+2021-10-08 15:03:09.9908 Debug Targets for Microsoft.AspNetCore.Hosting.Diagnostics by level:
+2021-10-08 15:03:09.9908 Debug Trace => log-file
+2021-10-08 15:03:09.9908 Debug Debug => log-file
+2021-10-08 15:03:09.9908 Debug Info => log-file
+2021-10-08 15:03:09.9908 Debug Warn => log-file
+2021-10-08 15:03:09.9908 Debug Error => log-file
+2021-10-08 15:03:09.9908 Debug Fatal => log-file
+2021-10-08 15:03:10.0394 Debug Targets for Microsoft.AspNetCore.Mvc.MvcOptions by level:
+2021-10-08 15:03:10.0394 Debug Trace => log-file
+2021-10-08 15:03:10.0394 Debug Debug => log-file
+2021-10-08 15:03:10.0394 Debug Info => log-file
+2021-10-08 15:03:10.0394 Debug Warn => log-file
+2021-10-08 15:03:10.0394 Debug Error => log-file
+2021-10-08 15:03:10.0394 Debug Fatal => log-file
+2021-10-08 15:03:10.0394 Debug Targets for Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter by level:
+2021-10-08 15:03:10.0394 Debug Trace => log-file
+2021-10-08 15:03:10.0394 Debug Debug => log-file
+2021-10-08 15:03:10.0394 Debug Info => log-file
+2021-10-08 15:03:10.0394 Debug Warn => log-file
+2021-10-08 15:03:10.0394 Debug Error => log-file
+2021-10-08 15:03:10.0394 Debug Fatal => log-file
+2021-10-08 15:03:10.1122 Debug Targets for Microsoft.AspNetCore.Routing.EndpointMiddleware by level:
+2021-10-08 15:03:10.1172 Debug Trace => log-file
+2021-10-08 15:03:10.1172 Debug Debug => log-file
+2021-10-08 15:03:10.1172 Debug Info => log-file
+2021-10-08 15:03:10.1172 Debug Warn => log-file
+2021-10-08 15:03:10.1172 Debug Error => log-file
+2021-10-08 15:03:10.1172 Debug Fatal => log-file
+2021-10-08 15:03:10.1172 Debug Targets for Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware by level:
+2021-10-08 15:03:10.1172 Debug Trace => log-file
+2021-10-08 15:03:10.1172 Debug Debug => log-file
+2021-10-08 15:03:10.1172 Debug Info => log-file
+2021-10-08 15:03:10.1172 Debug Warn => log-file
+2021-10-08 15:03:10.1172 Debug Error => log-file
+2021-10-08 15:03:10.1172 Debug Fatal => log-file
+2021-10-08 15:03:10.1325 Debug Targets for Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware by level:
+2021-10-08 15:03:10.1325 Debug Trace => log-file
+2021-10-08 15:03:10.1325 Debug Debug => log-file
+2021-10-08 15:03:10.1325 Debug Info => log-file
+2021-10-08 15:03:10.1325 Debug Warn => log-file
+2021-10-08 15:03:10.1325 Debug Error => log-file
+2021-10-08 15:03:10.1325 Debug Fatal => log-file
+2021-10-08 15:03:10.1469 Debug Targets for Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware by level:
+2021-10-08 15:03:10.1469 Debug Trace => log-file
+2021-10-08 15:03:10.1469 Debug Debug => log-file
+2021-10-08 15:03:10.1469 Debug Info => log-file
+2021-10-08 15:03:10.1469 Debug Warn => log-file
+2021-10-08 15:03:10.1469 Debug Error => log-file
+2021-10-08 15:03:10.1469 Debug Fatal => log-file
+2021-10-08 15:03:10.1759 Debug Targets for Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware by level:
+2021-10-08 15:03:10.1759 Debug Trace => log-file
+2021-10-08 15:03:10.1759 Debug Debug => log-file
+2021-10-08 15:03:10.1759 Debug Info => log-file
+2021-10-08 15:03:10.1759 Debug Warn => log-file
+2021-10-08 15:03:10.1759 Debug Error => log-file
+2021-10-08 15:03:10.1785 Debug Fatal => log-file
+2021-10-08 15:03:10.1785 Debug Targets for Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware by level:
+2021-10-08 15:03:10.1785 Debug Trace => log-file
+2021-10-08 15:03:10.1785 Debug Debug => log-file
+2021-10-08 15:03:10.1785 Debug Info => log-file
+2021-10-08 15:03:10.1785 Debug Warn => log-file
+2021-10-08 15:03:10.1785 Debug Error => log-file
+2021-10-08 15:03:10.1785 Debug Fatal => log-file
+2021-10-08 15:03:10.2187 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:10.2187 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:10.2285 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:10.2285 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:10.2285 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:10.2285 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:10.2577 Debug FileTarget(Name=log-file_wrapped): Preparing for new file 'D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\.\logs\reimbursementcalc.2021-10-08.log'
+2021-10-08 15:03:10.2985 Debug Creating file appender: D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\.\logs\reimbursementcalc.2021-10-08.log
+2021-10-08 15:03:18.1536 Debug Targets for Microsoft.AspNetCore.Routing.Matching.DfaMatcher by level:
+2021-10-08 15:03:18.1536 Debug Trace => log-file
+2021-10-08 15:03:18.1536 Debug Debug => log-file
+2021-10-08 15:03:18.1653 Debug Info => log-file
+2021-10-08 15:03:18.1653 Debug Warn => log-file
+2021-10-08 15:03:18.1653 Debug Error => log-file
+2021-10-08 15:03:18.1653 Debug Fatal => log-file
+2021-10-08 15:03:18.1792 Debug Targets for Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory by level:
+2021-10-08 15:03:18.1792 Debug Trace => log-file
+2021-10-08 15:03:18.1792 Debug Debug => log-file
+2021-10-08 15:03:18.1792 Debug Info => log-file
+2021-10-08 15:03:18.1792 Debug Warn => log-file
+2021-10-08 15:03:18.1792 Debug Error => log-file
+2021-10-08 15:03:18.1792 Debug Fatal => log-file
+2021-10-08 15:03:18.1792 Debug Targets for Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder by level:
+2021-10-08 15:03:18.1792 Debug Trace => log-file
+2021-10-08 15:03:18.1937 Debug Debug => log-file
+2021-10-08 15:03:18.1937 Debug Info => log-file
+2021-10-08 15:03:18.1937 Debug Warn => log-file
+2021-10-08 15:03:18.1937 Debug Error => log-file
+2021-10-08 15:03:18.1937 Debug Fatal => log-file
+2021-10-08 15:03:18.1937 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker by level:
+2021-10-08 15:03:18.1937 Debug Trace => log-file
+2021-10-08 15:03:18.1937 Debug Debug => log-file
+2021-10-08 15:03:18.1937 Debug Info => log-file
+2021-10-08 15:03:18.1937 Debug Warn => log-file
+2021-10-08 15:03:18.2095 Debug Error => log-file
+2021-10-08 15:03:18.2095 Debug Fatal => log-file
+2021-10-08 15:03:18.2095 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter by level:
+2021-10-08 15:03:18.2095 Debug Trace => log-file
+2021-10-08 15:03:18.2095 Debug Debug => log-file
+2021-10-08 15:03:18.2095 Debug Info => log-file
+2021-10-08 15:03:18.2095 Debug Warn => log-file
+2021-10-08 15:03:18.2095 Debug Error => log-file
+2021-10-08 15:03:18.2095 Debug Fatal => log-file
+2021-10-08 15:03:18.2259 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter by level:
+2021-10-08 15:03:18.2259 Debug Trace => log-file
+2021-10-08 15:03:18.2259 Debug Debug => log-file
+2021-10-08 15:03:18.2259 Debug Info => log-file
+2021-10-08 15:03:18.2259 Debug Warn => log-file
+2021-10-08 15:03:18.2259 Debug Error => log-file
+2021-10-08 15:03:18.2259 Debug Fatal => log-file
+2021-10-08 15:03:18.2259 Debug Targets for Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder by level:
+2021-10-08 15:03:18.2259 Debug Trace => log-file
+2021-10-08 15:03:18.2259 Debug Debug => log-file
+2021-10-08 15:03:18.2408 Debug Info => log-file
+2021-10-08 15:03:18.2408 Debug Warn => log-file
+2021-10-08 15:03:18.2408 Debug Error => log-file
+2021-10-08 15:03:18.2408 Debug Fatal => log-file
+2021-10-08 15:03:18.2408 Debug Targets for STTechExcercise.Controllers.ReimbursementController by level:
+2021-10-08 15:03:18.2408 Debug Trace => log-file
+2021-10-08 15:03:18.2408 Debug Debug => log-file
+2021-10-08 15:03:18.2408 Debug Info => log-file
+2021-10-08 15:03:18.2408 Debug Warn => log-file
+2021-10-08 15:03:18.2408 Debug Error => log-file
+2021-10-08 15:03:18.2408 Debug Fatal => log-file
+2021-10-08 15:03:18.2408 Debug Targets for STTechExcercise.Services.ProjectReimbursementService by level:
+2021-10-08 15:03:18.2408 Debug Trace => log-file
+2021-10-08 15:03:18.2408 Debug Debug => log-file
+2021-10-08 15:03:18.2408 Debug Info => log-file
+2021-10-08 15:03:18.2408 Debug Warn => log-file
+2021-10-08 15:03:18.2408 Debug Error => log-file
+2021-10-08 15:03:18.2408 Debug Fatal => log-file
+2021-10-08 15:03:18.3847 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector by level:
+2021-10-08 15:03:18.3994 Debug Trace => log-file
+2021-10-08 15:03:18.3994 Debug Debug => log-file
+2021-10-08 15:03:18.3994 Debug Info => log-file
+2021-10-08 15:03:18.3994 Debug Warn => log-file
+2021-10-08 15:03:18.3994 Debug Error => log-file
+2021-10-08 15:03:18.3994 Debug Fatal => log-file
+2021-10-08 15:03:18.3994 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor by level:
+2021-10-08 15:03:18.4126 Debug Trace => log-file
+2021-10-08 15:03:18.4126 Debug Debug => log-file
+2021-10-08 15:03:18.4126 Debug Info => log-file
+2021-10-08 15:03:18.4126 Debug Warn => log-file
+2021-10-08 15:03:18.4126 Debug Error => log-file
+2021-10-08 15:03:18.4126 Debug Fatal => log-file
+2021-10-08 15:03:34.1971 Info Message Template Auto Format enabled
+2021-10-08 15:03:34.2113 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 15:03:34.2113 Debug ScanAssembly('NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c')
+2021-10-08 15:03:34.2477 Debug Setting 'NLog.LayoutRenderers.Wrappers.UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2021-10-08 15:03:34.2629 Debug Setting 'NLog.Targets.FileTarget.name' to 'log-file'
+2021-10-08 15:03:34.2629 Debug Setting 'NLog.Targets.FileTarget.fileName' to '.\logs\reimbursementcalc.${shortdate}.log'
+2021-10-08 15:03:34.2629 Debug Setting 'NLog.Targets.FileTarget.maxArchiveFiles' to '10'
+2021-10-08 15:03:34.2629 Debug Setting 'NLog.Targets.FileTarget.archiveOldFileOnStartup' to 'false'
+2021-10-08 15:03:34.2629 Debug Setting 'NLog.Targets.FileTarget.layout' to '${longdate}|${event-properties:item=EventId_Id}|${uppercase:${level}}|${logger}|${message} ${exception:format=tostring}|url: ${aspnet-request-url}|action: ${aspnet-mvc-action}'
+2021-10-08 15:03:34.2629 Debug Setting 'NLog.LayoutRenderers.EventPropertiesLayoutRenderer.item' to 'EventId_Id'
+2021-10-08 15:03:34.2629 Debug Setting 'NLog.LayoutRenderers.Wrappers.UppercaseLayoutRendererWrapper.Inner' to '${level}'
+2021-10-08 15:03:34.2812 Debug Setting 'NLog.LayoutRenderers.ExceptionLayoutRenderer.format' to 'tostring'
+2021-10-08 15:03:34.2812 Debug Wrapping target 'log-file' with AsyncTargetWrapper and renaming to 'log-file_wrapped
+2021-10-08 15:03:34.2812 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 15:03:34.2812 Debug Registered target log-file: NLog.Targets.Wrappers.AsyncTargetWrapper
+2021-10-08 15:03:34.3043 Debug Watching path 'D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1' filter 'NLog.config' for changes.
+2021-10-08 15:03:34.3043 Debug --- NLog configuration dump ---
+2021-10-08 15:03:34.3043 Debug Targets:
+2021-10-08 15:03:34.3043 Debug AsyncWrapper Target[log-file](File Target[log-file_wrapped])
+2021-10-08 15:03:34.3043 Debug Rules:
+2021-10-08 15:03:34.3043 Debug logNamePattern: (:All) levels: [ Trace Debug Info Warn Error Fatal ] appendTo: [ log-file ]
+2021-10-08 15:03:34.3043 Debug --- End of NLog configuration dump ---
+2021-10-08 15:03:34.3196 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 15:03:34.3196 Debug Unused target checking is started... Rule Count: 1, Target Count: 1
+2021-10-08 15:03:34.3196 Debug Unused target checking is completed. Total Rule Count: 1, Total Target Count: 1, Unused Target Count: 0
+2021-10-08 15:03:34.3403 Info Configuration initialized.
+2021-10-08 15:03:34.3403 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 15:03:34.3403 Debug Targets for Microsoft.Extensions.Hosting.Internal.ApplicationLifetime by level:
+2021-10-08 15:03:34.3403 Debug Trace => log-file
+2021-10-08 15:03:34.3403 Debug Debug => log-file
+2021-10-08 15:03:34.3403 Debug Info => log-file
+2021-10-08 15:03:34.3403 Debug Warn => log-file
+2021-10-08 15:03:34.3403 Debug Error => log-file
+2021-10-08 15:03:34.3403 Debug Fatal => log-file
+2021-10-08 15:03:34.3546 Debug Targets for Microsoft.Extensions.Hosting.Internal.Host by level:
+2021-10-08 15:03:34.3546 Debug Trace => log-file
+2021-10-08 15:03:34.3546 Debug Debug => log-file
+2021-10-08 15:03:34.3546 Debug Info => log-file
+2021-10-08 15:03:34.3546 Debug Warn => log-file
+2021-10-08 15:03:34.3546 Debug Error => log-file
+2021-10-08 15:03:34.3546 Debug Fatal => log-file
+2021-10-08 15:03:34.3546 Debug Targets for Microsoft.Hosting.Lifetime by level:
+2021-10-08 15:03:34.3546 Debug Trace => log-file
+2021-10-08 15:03:34.3546 Debug Debug => log-file
+2021-10-08 15:03:34.3546 Debug Info => log-file
+2021-10-08 15:03:34.3546 Debug Warn => log-file
+2021-10-08 15:03:34.3546 Debug Error => log-file
+2021-10-08 15:03:34.3546 Debug Fatal => log-file
+2021-10-08 15:03:34.3546 Debug Targets for Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer by level:
+2021-10-08 15:03:34.3546 Debug Trace => log-file
+2021-10-08 15:03:34.3654 Debug Debug => log-file
+2021-10-08 15:03:34.3654 Debug Info => log-file
+2021-10-08 15:03:34.3654 Debug Warn => log-file
+2021-10-08 15:03:34.3654 Debug Error => log-file
+2021-10-08 15:03:34.3654 Debug Fatal => log-file
+2021-10-08 15:03:34.3654 Debug Targets for Microsoft.AspNetCore.Hosting.Diagnostics by level:
+2021-10-08 15:03:34.3654 Debug Trace => log-file
+2021-10-08 15:03:34.3654 Debug Debug => log-file
+2021-10-08 15:03:34.3654 Debug Info => log-file
+2021-10-08 15:03:34.3654 Debug Warn => log-file
+2021-10-08 15:03:34.3654 Debug Error => log-file
+2021-10-08 15:03:34.3654 Debug Fatal => log-file
+2021-10-08 15:03:34.4169 Debug Targets for Microsoft.AspNetCore.Mvc.MvcOptions by level:
+2021-10-08 15:03:34.4169 Debug Trace => log-file
+2021-10-08 15:03:34.4169 Debug Debug => log-file
+2021-10-08 15:03:34.4169 Debug Info => log-file
+2021-10-08 15:03:34.4169 Debug Warn => log-file
+2021-10-08 15:03:34.4169 Debug Error => log-file
+2021-10-08 15:03:34.4169 Debug Fatal => log-file
+2021-10-08 15:03:34.4169 Debug Targets for Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter by level:
+2021-10-08 15:03:34.4169 Debug Trace => log-file
+2021-10-08 15:03:34.4169 Debug Debug => log-file
+2021-10-08 15:03:34.4169 Debug Info => log-file
+2021-10-08 15:03:34.4169 Debug Warn => log-file
+2021-10-08 15:03:34.4169 Debug Error => log-file
+2021-10-08 15:03:34.4169 Debug Fatal => log-file
+2021-10-08 15:03:34.4901 Debug Targets for Microsoft.AspNetCore.Routing.EndpointMiddleware by level:
+2021-10-08 15:03:34.4941 Debug Trace => log-file
+2021-10-08 15:03:34.4941 Debug Debug => log-file
+2021-10-08 15:03:34.4941 Debug Info => log-file
+2021-10-08 15:03:34.4941 Debug Warn => log-file
+2021-10-08 15:03:34.5062 Debug Error => log-file
+2021-10-08 15:03:34.5062 Debug Fatal => log-file
+2021-10-08 15:03:34.5062 Debug Targets for Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware by level:
+2021-10-08 15:03:34.5062 Debug Trace => log-file
+2021-10-08 15:03:34.5062 Debug Debug => log-file
+2021-10-08 15:03:34.5062 Debug Info => log-file
+2021-10-08 15:03:34.5062 Debug Warn => log-file
+2021-10-08 15:03:34.5062 Debug Error => log-file
+2021-10-08 15:03:34.5062 Debug Fatal => log-file
+2021-10-08 15:03:34.5062 Debug Targets for Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware by level:
+2021-10-08 15:03:34.5062 Debug Trace => log-file
+2021-10-08 15:03:34.5062 Debug Debug => log-file
+2021-10-08 15:03:34.5062 Debug Info => log-file
+2021-10-08 15:03:34.5062 Debug Warn => log-file
+2021-10-08 15:03:34.5062 Debug Error => log-file
+2021-10-08 15:03:34.5062 Debug Fatal => log-file
+2021-10-08 15:03:34.5301 Debug Targets for Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware by level:
+2021-10-08 15:03:34.5301 Debug Trace => log-file
+2021-10-08 15:03:34.5301 Debug Debug => log-file
+2021-10-08 15:03:34.5301 Debug Info => log-file
+2021-10-08 15:03:34.5301 Debug Warn => log-file
+2021-10-08 15:03:34.5301 Debug Error => log-file
+2021-10-08 15:03:34.5301 Debug Fatal => log-file
+2021-10-08 15:03:34.5588 Debug Targets for Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware by level:
+2021-10-08 15:03:34.5588 Debug Trace => log-file
+2021-10-08 15:03:34.5588 Debug Debug => log-file
+2021-10-08 15:03:34.5588 Debug Info => log-file
+2021-10-08 15:03:34.5588 Debug Warn => log-file
+2021-10-08 15:03:34.5588 Debug Error => log-file
+2021-10-08 15:03:34.5588 Debug Fatal => log-file
+2021-10-08 15:03:34.5588 Debug Targets for Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware by level:
+2021-10-08 15:03:34.5588 Debug Trace => log-file
+2021-10-08 15:03:34.5588 Debug Debug => log-file
+2021-10-08 15:03:34.5588 Debug Info => log-file
+2021-10-08 15:03:34.5588 Debug Warn => log-file
+2021-10-08 15:03:34.5588 Debug Error => log-file
+2021-10-08 15:03:34.5588 Debug Fatal => log-file
+2021-10-08 15:03:34.6008 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:34.6008 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:34.6008 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:34.6008 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:34.6158 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:34.6158 Debug No available HttpContext. Logging outside valid request context?
+2021-10-08 15:03:34.6456 Debug FileTarget(Name=log-file_wrapped): Preparing for new file 'D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\.\logs\reimbursementcalc.2021-10-08.log'
+2021-10-08 15:03:34.6812 Debug Creating file appender: D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\.\logs\reimbursementcalc.2021-10-08.log
+2021-10-08 15:03:39.4958 Debug Targets for Microsoft.AspNetCore.Routing.Matching.DfaMatcher by level:
+2021-10-08 15:03:39.4958 Debug Trace => log-file
+2021-10-08 15:03:39.4958 Debug Debug => log-file
+2021-10-08 15:03:39.5092 Debug Info => log-file
+2021-10-08 15:03:39.5092 Debug Warn => log-file
+2021-10-08 15:03:39.5092 Debug Error => log-file
+2021-10-08 15:03:39.5092 Debug Fatal => log-file
+2021-10-08 15:03:39.5222 Debug Targets for Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory by level:
+2021-10-08 15:03:39.5222 Debug Trace => log-file
+2021-10-08 15:03:39.5222 Debug Debug => log-file
+2021-10-08 15:03:39.5222 Debug Info => log-file
+2021-10-08 15:03:39.5222 Debug Warn => log-file
+2021-10-08 15:03:39.5222 Debug Error => log-file
+2021-10-08 15:03:39.5222 Debug Fatal => log-file
+2021-10-08 15:03:39.5222 Debug Targets for Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder by level:
+2021-10-08 15:03:39.5222 Debug Trace => log-file
+2021-10-08 15:03:39.5222 Debug Debug => log-file
+2021-10-08 15:03:39.5222 Debug Info => log-file
+2021-10-08 15:03:39.5222 Debug Warn => log-file
+2021-10-08 15:03:39.5222 Debug Error => log-file
+2021-10-08 15:03:39.5222 Debug Fatal => log-file
+2021-10-08 15:03:39.5222 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker by level:
+2021-10-08 15:03:39.5222 Debug Trace => log-file
+2021-10-08 15:03:39.5222 Debug Debug => log-file
+2021-10-08 15:03:39.5222 Debug Info => log-file
+2021-10-08 15:03:39.5222 Debug Warn => log-file
+2021-10-08 15:03:39.5222 Debug Error => log-file
+2021-10-08 15:03:39.5376 Debug Fatal => log-file
+2021-10-08 15:03:39.5376 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter by level:
+2021-10-08 15:03:39.5376 Debug Trace => log-file
+2021-10-08 15:03:39.5376 Debug Debug => log-file
+2021-10-08 15:03:39.5376 Debug Info => log-file
+2021-10-08 15:03:39.5376 Debug Warn => log-file
+2021-10-08 15:03:39.5376 Debug Error => log-file
+2021-10-08 15:03:39.5376 Debug Fatal => log-file
+2021-10-08 15:03:39.5376 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter by level:
+2021-10-08 15:03:39.5376 Debug Trace => log-file
+2021-10-08 15:03:39.5376 Debug Debug => log-file
+2021-10-08 15:03:39.5376 Debug Info => log-file
+2021-10-08 15:03:39.5376 Debug Warn => log-file
+2021-10-08 15:03:39.5376 Debug Error => log-file
+2021-10-08 15:03:39.5376 Debug Fatal => log-file
+2021-10-08 15:03:39.5594 Debug Targets for Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder by level:
+2021-10-08 15:03:39.5594 Debug Trace => log-file
+2021-10-08 15:03:39.5594 Debug Debug => log-file
+2021-10-08 15:03:39.5594 Debug Info => log-file
+2021-10-08 15:03:39.5594 Debug Warn => log-file
+2021-10-08 15:03:39.5594 Debug Error => log-file
+2021-10-08 15:03:39.5594 Debug Fatal => log-file
+2021-10-08 15:03:39.5594 Debug Targets for STTechExcercise.Controllers.ReimbursementController by level:
+2021-10-08 15:03:39.5594 Debug Trace => log-file
+2021-10-08 15:03:39.5594 Debug Debug => log-file
+2021-10-08 15:03:39.5688 Debug Info => log-file
+2021-10-08 15:03:39.5688 Debug Warn => log-file
+2021-10-08 15:03:39.5688 Debug Error => log-file
+2021-10-08 15:03:39.5688 Debug Fatal => log-file
+2021-10-08 15:03:39.5688 Debug Targets for STTechExcercise.Services.ProjectReimbursementService by level:
+2021-10-08 15:03:39.5688 Debug Trace => log-file
+2021-10-08 15:03:39.5688 Debug Debug => log-file
+2021-10-08 15:03:39.5688 Debug Info => log-file
+2021-10-08 15:03:39.5688 Debug Warn => log-file
+2021-10-08 15:03:39.5688 Debug Error => log-file
+2021-10-08 15:03:39.5688 Debug Fatal => log-file
+2021-10-08 15:03:39.6949 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector by level:
+2021-10-08 15:03:39.7111 Debug Trace => log-file
+2021-10-08 15:03:39.7111 Debug Debug => log-file
+2021-10-08 15:03:39.7111 Debug Info => log-file
+2021-10-08 15:03:39.7111 Debug Warn => log-file
+2021-10-08 15:03:39.7111 Debug Error => log-file
+2021-10-08 15:03:39.7251 Debug Fatal => log-file
+2021-10-08 15:03:39.7251 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor by level:
+2021-10-08 15:03:39.7251 Debug Trace => log-file
+2021-10-08 15:03:39.7251 Debug Debug => log-file
+2021-10-08 15:03:39.7251 Debug Info => log-file
+2021-10-08 15:03:39.7251 Debug Warn => log-file
+2021-10-08 15:03:39.7251 Debug Error => log-file
+2021-10-08 15:03:39.7251 Debug Fatal => log-file
+2021-10-08 15:04:17.9936 Info Message Template Auto Format enabled
+2021-10-08 15:04:17.9936 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 15:04:18.0547 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 15:04:18.0861 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 15:04:18.1074 Info Configuration initialized.
+2021-10-08 15:04:18.1074 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 15:05:10.5728 Info Message Template Auto Format enabled
+2021-10-08 15:05:10.5728 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 15:05:10.6431 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 15:05:10.6860 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 15:05:10.7142 Info Configuration initialized.
+2021-10-08 15:05:10.7142 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 15:06:21.9527 Info Message Template Auto Format enabled
+2021-10-08 15:06:21.9651 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 15:06:22.0349 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 15:06:22.0693 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 15:06:22.0934 Info Configuration initialized.
+2021-10-08 15:06:22.0934 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-10-08 15:07:02.3262 Info Message Template Auto Format enabled
+2021-10-08 15:07:02.3387 Info Loading assembly: NLog.Web.AspNetCore
+2021-10-08 15:07:02.3988 Info Adding target AsyncTargetWrapper(Name=log-file)
+2021-10-08 15:07:02.4266 Info Validating config: TargetNames=log-file, ConfigItems=25, FilePath=D:\git\Kroger\STTechExcercise\STTechExcercise\bin\Debug\netcoreapp3.1\NLog.config
+2021-10-08 15:07:02.4494 Info Configuration initialized.
+2021-10-08 15:07:02.4494 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False

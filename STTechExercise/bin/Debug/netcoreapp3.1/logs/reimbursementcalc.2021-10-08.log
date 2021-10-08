@@ -1,0 +1,64 @@
+2021-10-08 14:18:54.5711||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 14:18:54.5711||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 14:18:54.5930||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 14:19:26.9923||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 14:19:26.9923||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 14:19:27.0120||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 14:45:30.9828||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 14:45:30.9960||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 14:45:30.9960||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 14:46:54.0437||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 14:46:54.0564||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 14:46:54.0564||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 14:48:57.1143||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 14:48:57.1278||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 14:48:57.1345||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 15:00:39.9469||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 15:00:39.9631||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 15:00:39.9631||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 15:00:56.0852||INFO|STTechExcercise.Controllers.ReimbursementController|Projects to reimburse : [{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-02T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-03T00:00:00"}] |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:00:56.0852||INFO|STTechExcercise.Services.ProjectReimbursementService|Min StartDate : 9/1/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:00:56.0852||INFO|STTechExcercise.Services.ProjectReimbursementService|Max EndDate : 9/3/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:00:56.0852||INFO|STTechExcercise.Controllers.ReimbursementController|Reimbursement Value :185 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:03:10.2079||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 15:03:10.2187||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 15:03:10.2285||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 15:03:18.3847||INFO|STTechExcercise.Controllers.ReimbursementController|Projects to reimburse : [{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-02T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-03T00:00:00"}] |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:03:18.3847||INFO|STTechExcercise.Services.ProjectReimbursementService|Min StartDate : 9/1/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:03:18.3847||INFO|STTechExcercise.Services.ProjectReimbursementService|Max EndDate : 9/3/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:03:18.3847||INFO|STTechExcercise.Controllers.ReimbursementController|Reimbursement Value :185 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:03:34.5913||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 15:03:34.6008||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 15:03:34.6158||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 15:03:39.6949||INFO|STTechExcercise.Controllers.ReimbursementController|Projects to reimburse : [{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-02T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-03T00:00:00"}] |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:03:39.6949||INFO|STTechExcercise.Services.ProjectReimbursementService|Min StartDate : 9/1/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:03:39.6949||INFO|STTechExcercise.Services.ProjectReimbursementService|Max EndDate : 9/3/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:03:39.6949||INFO|STTechExcercise.Controllers.ReimbursementController|Reimbursement Value :185 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:04:18.2963||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 15:04:18.3077||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 15:04:18.3077||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 15:04:25.5202||INFO|STTechExcercise.Controllers.ReimbursementController|Projects to reimburse : [{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-02T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-03T00:00:00"}] |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:04:25.5257||INFO|STTechExcercise.Services.ProjectReimbursementService|Min StartDate : 9/1/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:04:25.5257||INFO|STTechExcercise.Services.ProjectReimbursementService|Max EndDate : 9/3/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:04:25.5257||INFO|STTechExcercise.Controllers.ReimbursementController|Reimbursement Value :185 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:05:10.9035||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 15:05:10.9162||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 15:05:10.9162||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 15:05:16.0163||INFO|STTechExcercise.Controllers.ReimbursementController|Projects to reimburse : [{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-02T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-03T00:00:00"}] |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:05:16.0236||INFO|STTechExcercise.Services.ProjectReimbursementService|Min StartDate : 9/1/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:05:16.0236||INFO|STTechExcercise.Services.ProjectReimbursementService|Max EndDate : 9/3/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:05:16.0236||INFO|STTechExcercise.Controllers.ReimbursementController|Reimbursement Value :185 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:06:22.2998||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 15:06:22.3186||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 15:06:22.3258||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 15:06:33.0250||INFO|STTechExcercise.Controllers.ReimbursementController|Projects to reimburse : [{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-02T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-03T00:00:00"}] |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:06:33.0250||INFO|STTechExcercise.Services.ProjectReimbursementService|Min StartDate : 9/1/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:06:33.0250||INFO|STTechExcercise.Services.ProjectReimbursementService|Max EndDate : 9/3/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:06:33.0391||INFO|STTechExcercise.Controllers.ReimbursementController|Reimbursement Value :185 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:07:02.6807||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 15:07:02.6942||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 15:07:02.6942||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExcercise |url: |action: 
+2021-10-08 15:07:08.3730||INFO|STTechExcercise.Controllers.ReimbursementController|Projects to reimburse : [{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":false,"StartDate":"2021-09-01T00:00:00","EndDate":"2021-09-01T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-02T00:00:00"},{"HighCostFlag":true,"StartDate":"2021-09-02T00:00:00","EndDate":"2021-09-03T00:00:00"}] |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:07:08.3730||INFO|STTechExcercise.Services.ProjectReimbursementService|Min StartDate : 9/1/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:07:08.3730||INFO|STTechExcercise.Services.ProjectReimbursementService|Max EndDate : 9/3/2021 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 15:07:08.3902||INFO|STTechExcercise.Controllers.ReimbursementController|Reimbursement Value :185 |url: https://localhost/api/Reimbursement|action: GetReimbursment
