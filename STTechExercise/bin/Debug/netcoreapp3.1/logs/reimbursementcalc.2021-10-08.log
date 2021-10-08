@@ -280,3 +280,28 @@
 2021-10-08 16:06:21.4630|2|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action STTechExercise.Controllers.ReimbursementController.GetReimbursment (STTechExercise) in 154.8695ms |url: https://localhost/api/Reimbursement|action: GetReimbursment
 2021-10-08 16:06:21.4630|1|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'STTechExercise.Controllers.ReimbursementController.GetReimbursment (STTechExercise)' |url: https://localhost/api/Reimbursement|action: GetReimbursment
 2021-10-08 16:06:21.4630|2|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished in 220.2323ms 200 application/json; charset=utf-8 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 16:17:11.4888||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 16:17:11.5067||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 16:17:11.5067||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExercise |url: |action: 
+2021-10-08 16:17:33.7244||ERROR|STTechExercise.Controllers.ReimbursementController|There weren't any projects to process. |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 16:17:46.5234||INFO|STTechExercise.Controllers.ReimbursementController|Projects to reimburse : [{"HighCostFlag":false,"StartDate":"0001-01-01T00:00:00","EndDate":"0001-01-01T00:00:00"}] |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 16:17:46.5234||INFO|STTechExercise.Services.ProjectReimbursementService|Min StartDate : 1/1/0001 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 16:17:46.5234||INFO|STTechExercise.Services.ProjectReimbursementService|Max EndDate : 1/1/0001 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 16:17:46.5402||DEBUG|STTechExercise.Services.ProjectReimbursementService|High cost travel day : False |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 16:17:46.5550||DEBUG|STTechExercise.Services.ProjectReimbursementService|CurrentDate : 1/2/0001, Current TotalReimbursement : 45 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 16:17:46.5816||INFO|STTechExercise.Controllers.ReimbursementController|Reimbursement Value :45 |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 16:18:03.0388||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 16:18:03.0388||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 16:18:03.0631||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExercise |url: |action: 
+2021-10-08 16:18:54.5760||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 16:18:54.6018||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 16:18:54.6156||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExercise |url: |action: 
+2021-10-08 16:38:23.6383||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 16:38:23.6506||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 16:38:23.6506||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExercise |url: |action: 
+2021-10-08 16:38:34.5940||ERROR|STTechExercise.Controllers.ReimbursementController|There weren't any projects to process. |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 16:44:57.7595||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: 
+2021-10-08 16:44:57.7721||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: 
+2021-10-08 16:44:57.7721||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\git\Kroger\STTechExcercise\STTechExercise |url: |action: 
+2021-10-08 16:45:09.5985||ERROR|STTechExercise.Controllers.ReimbursementController|There weren't any projects to process. |url: https://localhost/api/Reimbursement|action: GetReimbursment
+2021-10-08 16:45:41.9422||ERROR|STTechExercise.Controllers.ReimbursementController|There weren't any projects to process. |url: https://localhost/api/Reimbursement|action: GetReimbursment

@@ -24,7 +24,7 @@ namespace STTechExercise.Controllers
         public ActionResult<int> GetReimbursment([FromBody] List<Project> projects)
         {
             
-            if (projects != null && projects.Count() >0)
+            if (projects != null && projects.Count() >0 && ValidateProjects(projects))
             {
                 _logger.LogInformation($"Projects to reimburse : {JsonConvert.SerializeObject(projects)}");
                 var reimbursement = _projectReimbursementService.CalculateProjectReimbursement(projects);
@@ -37,6 +37,12 @@ namespace STTechExercise.Controllers
                 return BadRequest();
             }
 
+        }
+        private bool ValidateProjects(List<Project> projects)
+        {
+            if (projects.FirstOrDefault(f => !f.EndDate.HasValue || !f.StartDate.HasValue || !f.HighCostFlag.HasValue) != null)
+                return false;
+            return true;
         }
     }
 }

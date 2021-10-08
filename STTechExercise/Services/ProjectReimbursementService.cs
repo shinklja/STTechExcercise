@@ -18,8 +18,8 @@ namespace STTechExercise.Services
         }
         public int CalculateProjectReimbursement(List<Project> projects)
         {
-            var currentDate = projects.Min(m => m.StartDate);
-            var maxEndDate = projects.Max(m => m.EndDate);
+            var currentDate = projects.Min(m => m.StartDate).Value;
+            var maxEndDate = projects.Max(m => m.EndDate).Value;
             _logger.LogInformation($"Min StartDate : {currentDate.ToShortDateString()}");
             _logger.LogInformation($"Max EndDate : {maxEndDate.ToShortDateString()}");
             var totalReimbursement = 0;
@@ -42,12 +42,12 @@ namespace STTechExercise.Services
             if (projects.FirstOrDefault(w => w.StartDate <= currentDate.AddDays(1) && w.EndDate >= currentDate.AddDays(1)) != null && projects.FirstOrDefault(w => w.StartDate <= currentDate.AddDays(-1) && w.EndDate >= currentDate.AddDays(-1)) != null)
             {
                 _logger.LogDebug($"High cost project day : {projectsActiveDuringCurrentDate.Max(m => m.HighCostFlag)}");
-                return projectsActiveDuringCurrentDate.Max(m => m.HighCostFlag) ? _reimbursementValues.HighCostPay : _reimbursementValues.LowCostPay;
+                return projectsActiveDuringCurrentDate.Max(m => m.HighCostFlag.Value) ? _reimbursementValues.HighCostPay : _reimbursementValues.LowCostPay;
             }
             else
             {
                 _logger.LogDebug($"High cost travel day : {projectsActiveDuringCurrentDate.Max(m => m.HighCostFlag)}");
-                return projectsActiveDuringCurrentDate.Max(m => m.HighCostFlag) ? _reimbursementValues.HighCostTravel : _reimbursementValues.LowCostTravel;
+                return projectsActiveDuringCurrentDate.Max(m => m.HighCostFlag.Value) ? _reimbursementValues.HighCostTravel : _reimbursementValues.LowCostTravel;
             }
         }
     }
