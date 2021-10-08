@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Logging.Abstractions;
 using Moq;
-using STTechExcercise.Configuration;
-using STTechExcercise.Services;
+using STTechExercise.Configuration;
+using STTechExercise.Services;
 
 namespace STTechExercise.Test
 {

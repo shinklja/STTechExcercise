@@ -1,5 +1,5 @@
 ﻿
-namespace STTechExcercise.Configuration
+namespace STTechExercise.Configuration
 {
     public class ReimbursementValuesConfiguration
     {

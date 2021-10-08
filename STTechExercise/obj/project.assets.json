@@ -2,28 +2,6 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "MediatR/9.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.1/MediatR.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.1/MediatR.dll": {}
-        }
-      },
-      "MediatR.Extensions.Microsoft.DependencyInjection/9.0.0": {
-        "type": "package",
-        "dependencies": {
-          "MediatR": "9.0.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
-        }
-      },
       "Microsoft.Extensions.Configuration/3.0.0": {
         "type": "package",
         "dependencies": {
@@ -166,6 +144,21 @@
           "lib/netstandard2.0/NLog.dll": {}
         }
       },
+      "NLog.Config/4.7.11": {
+        "type": "package",
+        "dependencies": {
+          "NLog": "4.7.11",
+          "NLog.Schema": "4.7.11"
+        },
+        "contentFiles": {
+          "contentFiles/any/any/NLog.config": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "NLog.config"
+          }
+        }
+      },
       "NLog.Extensions.Logging/1.7.4": {
         "type": "package",
         "dependencies": {
@@ -177,6 +170,16 @@
         },
         "runtime": {
           "lib/netcoreapp3.0/NLog.Extensions.Logging.dll": {}
+        }
+      },
+      "NLog.Schema/4.7.11": {
+        "type": "package",
+        "contentFiles": {
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
         }
       },
       "NLog.Web.AspNetCore/4.14.0": {
@@ -236,37 +239,6 @@
     }
   },
   "libraries": {
-    "MediatR/9.0.0": {
-      "sha512": "8b3UYNxegHVYcJMG2zH8wn+YqxLvXG+eMfj0cMCq/jTW72p6O3PCKMkrIv0mqyxdW7bA4gblsocw7n+/9Akg5g==",
-      "type": "package",
-      "path": "mediatr/9.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "gradient_128x128.png",
-        "lib/net461/MediatR.dll",
-        "lib/net461/MediatR.xml",
-        "lib/netstandard2.0/MediatR.dll",
-        "lib/netstandard2.0/MediatR.xml",
-        "lib/netstandard2.1/MediatR.dll",
-        "lib/netstandard2.1/MediatR.xml",
-        "mediatr.9.0.0.nupkg.sha512",
-        "mediatr.nuspec"
-      ]
-    },
-    "MediatR.Extensions.Microsoft.DependencyInjection/9.0.0": {
-      "sha512": "msreY4ogiPdIRWiCQVHQDytIQpsZCLWsixWPZ+Xs86KZrvtuiV8BDHbIT0kBmogynVYWNpspb3caw+86YU8L6w==",
-      "type": "package",
-      "path": "mediatr.extensions.microsoft.dependencyinjection/9.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "gradient_128x128.png",
-        "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll",
-        "mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
-        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
-      ]
-    },
     "Microsoft.Extensions.Configuration/3.0.0": {
       "sha512": "KECbOpM0EySVbKTQDN9o0swdnZpwpdhuYngnnJGzXdcAc+JR1mv7iF4lOyK00KSH8OZjobO0TUeo3mn7J2rdrA==",
       "type": "package",
@@ -500,6 +472,21 @@
         "nlog.nuspec"
       ]
     },
+    "NLog.Config/4.7.11": {
+      "sha512": "p9N8dsMVdyXNN+KU2BsBFZ1aR+usL8JWPKe1YuXlKjPEQsltYO43tajlkX2Kilai+PAE1zw9UC8AaBq5r78x3A==",
+      "type": "package",
+      "path": "nlog.config/4.7.11",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/NLog.config",
+        "contentFiles/any/any/NLog.config",
+        "nlog.config.4.7.11.nupkg.sha512",
+        "nlog.config.nuspec",
+        "tools/Install.ps1"
+      ]
+    },
     "NLog.Extensions.Logging/1.7.4": {
       "sha512": "/dMxI/lBPNhKe9uONCQaZ3JYSHJh9/yez4Uqc6yIo2hIGaoi8sbQg7WQqW5/1WAIquhrG/SeCEZUTGMiRSQAHw==",
       "type": "package",
@@ -524,6 +511,19 @@
         "lib/netstandard2.0/NLog.Extensions.Logging.xml",
         "nlog.extensions.logging.1.7.4.nupkg.sha512",
         "nlog.extensions.logging.nuspec"
+      ]
+    },
+    "NLog.Schema/4.7.11": {
+      "sha512": "9mmj/hApaSmX9jP2PxLyqywesdEI1nIT2TVWgsdoqb1yIpxvUM+1b6aMD2zJkpGN8y71jmVO2d/FKTwQXIfpSw==",
+      "type": "package",
+      "path": "nlog.schema/4.7.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/NLog.xsd",
+        "contentFiles/any/any/NLog.xsd",
+        "nlog.schema.4.7.11.nupkg.sha512",
+        "nlog.schema.nuspec"
       ]
     },
     "NLog.Web.AspNetCore/4.14.0": {
@@ -612,8 +612,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "MediatR >= 9.0.0",
-      "MediatR.Extensions.Microsoft.DependencyInjection >= 9.0.0",
+      "NLog >= 4.7.11",
+      "NLog.Config >= 4.7.11",
       "NLog.Web.AspNetCore >= 4.14.0",
       "Newtonsoft.Json >= 13.0.1",
       "Newtonsoft.Json.Schema >= 3.0.14",
@@ -628,11 +628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\STTechExercise.csproj",
+      "projectUniqueName": "D:\\git\\Kroger\\STTechExcercise\\STTechExercise\\STTechExercise.csproj",
       "projectName": "STTechExercise",
-      "projectPath": "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\STTechExercise.csproj",
+      "projectPath": "D:\\git\\Kroger\\STTechExcercise\\STTechExercise\\STTechExercise.csproj",
       "packagesPath": "C:\\Users\\shink\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\obj\\",
+      "outputPath": "D:\\git\\Kroger\\STTechExcercise\\STTechExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shink\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -662,13 +662,13 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
-          "MediatR": {
+          "NLog": {
             "target": "Package",
-            "version": "[9.0.0, )"
+            "version": "[4.7.11, )"
           },
-          "MediatR.Extensions.Microsoft.DependencyInjection": {
+          "NLog.Config": {
             "target": "Package",
-            "version": "[9.0.0, )"
+            "version": "[4.7.11, )"
           },
           "NLog.Web.AspNetCore": {
             "target": "Package",

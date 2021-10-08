@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\STTechExercise.csproj": {}
+    "D:\\git\\Kroger\\STTechExcercise\\STTechExercise\\STTechExercise.csproj": {}
   },
   "projects": {
-    "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\STTechExercise.csproj": {
+    "D:\\git\\Kroger\\STTechExcercise\\STTechExercise\\STTechExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\STTechExercise.csproj",
+        "projectUniqueName": "D:\\git\\Kroger\\STTechExcercise\\STTechExercise\\STTechExercise.csproj",
         "projectName": "STTechExercise",
-        "projectPath": "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\STTechExercise.csproj",
+        "projectPath": "D:\\git\\Kroger\\STTechExcercise\\STTechExercise\\STTechExercise.csproj",
         "packagesPath": "C:\\Users\\shink\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\Kroger\\STTechExcercise\\STTechExcercise\\obj\\",
+        "outputPath": "D:\\git\\Kroger\\STTechExcercise\\STTechExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shink\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,13 +41,13 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "MediatR": {
+            "NLog": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[4.7.11, )"
             },
-            "MediatR.Extensions.Microsoft.DependencyInjection": {
+            "NLog.Config": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[4.7.11, )"
             },
             "NLog.Web.AspNetCore": {
               "target": "Package",

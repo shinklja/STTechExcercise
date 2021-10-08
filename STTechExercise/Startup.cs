@@ -1,14 +1,13 @@
-using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
-using STTechExcercise.Configuration;
+using STTechExercise.Configuration;
 using System;
 
-namespace STTechExcercise
+namespace STTechExercise
 {
     public class Startup
     {
@@ -59,7 +58,8 @@ namespace STTechExcercise
             app.UseRouting();
 
             app.UseAuthorization();
-
+           
+            
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

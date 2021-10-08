@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
-using STTechExcercise.Models;
-using STTechExcercise.Services;
+using STTechExercise.Models;
+using STTechExercise.Services;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace STTechExcercise.Controllers
+namespace STTechExercise.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -1,11 +1,11 @@
 ﻿using Microsoft.Extensions.Logging;
-using STTechExcercise.Configuration;
-using STTechExcercise.Models;
+using STTechExercise.Configuration;
+using STTechExercise.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace STTechExcercise.Services
+namespace STTechExercise.Services
 {
     public class ProjectReimbursementService  
     {

@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\shink\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\shink\\.nuget\\packages"
-    ]
-  }
-}

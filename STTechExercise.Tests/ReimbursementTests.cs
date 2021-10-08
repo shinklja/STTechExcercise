@@ -1,4 +1,4 @@
-using STTechExcercise.Models;
+using STTechExercise.Models;
 using STTechExercise.Test;
 using System;
 using System.Collections.Generic;

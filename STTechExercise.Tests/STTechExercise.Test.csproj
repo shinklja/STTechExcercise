@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\STTechExcercise\STTechExercise.csproj" />
+    <ProjectReference Include="..\STTechExercise\STTechExercise.csproj" />
   </ItemGroup>
 
 </Project>

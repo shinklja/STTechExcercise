@@ -24,5 +24,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Pkgxunit_analyzers Condition=" '$(Pkgxunit_analyzers)' == '' ">C:\Users\shink\.nuget\packages\xunit.analyzers\0.10.0</Pkgxunit_analyzers>
+    <PkgNLog_Config Condition=" '$(PkgNLog_Config)' == '' ">C:\Users\shink\.nuget\packages\nlog.config\4.7.11</PkgNLog_Config>
   </PropertyGroup>
 </Project>
